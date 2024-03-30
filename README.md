@@ -85,8 +85,5 @@ Delete all contents inside the public directory in the storage folder. It contai
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within this project, please send an e-mail to me via [davymaish6@gmail.com](mailto:davymaish6@gmail.com). All security vulnerabilities will be promptly addressed and sorted out.
 
 This was built by anusha in reference to davymaishhohtra
