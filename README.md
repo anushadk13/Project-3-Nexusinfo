@@ -70,20 +70,7 @@ The application is built on top of Laravel 10 Php Framework which requires a web
 Setup the database without seeding: `php artisan migrate`
 Delete all contents inside the public directory in the storage folder. It contains application dummy files. `storage\app\public`
 
-## Credits and Acknowledgements
- The project is developed and maintained by [David Maina](https://davymaish.github.io).
 
-- [Laravel 10](http://laravel.com/).
-- [jQuery](http://jquery.com/).
-- [Bootstrap 5](http://getbootstrap.com/).
-- [Font Awesome 4](http://fortawesome.github.io/Font-Awesome/).
-- [Fonts](https://www.google.com/fonts).
-- [Ckeditor](https://ckeditor.com/).
-- [MetisMenu](https://github.com/onokumus/metisMenu/).
-
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
 
 This was built by anusha in reference to davymaishhohtra
